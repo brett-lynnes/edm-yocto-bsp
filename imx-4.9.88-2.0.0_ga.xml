@@ -38,8 +38,8 @@
      <linkfile src="README" dest="README-TechNexion-BSP"/>
   </project>
  
-  <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="HEAD" />
-  <project remote="meta-mender-community" name="meta-mender-community" path="mender/meta-mender-community" revision="HEAD" />
+  <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="master" />
+  <project remote="meta-mender-community" name="meta-mender-community" path="mender/meta-mender-community" revision="master" />
   <project remote="meta-doppler" name="meta-doppler" path="sources/meta-doppler" revision="imx6ull" />
   
 </manifest>
